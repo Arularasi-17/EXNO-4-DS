@@ -466,7 +466,7 @@ print(selected_features)
 ```
 
 ![image](https://github.com/user-attachments/assets/7ae6f68b-fdb8-46d7-ab73-450b1856fd46)
-```
 
-# RESULT:
-       The Feature scaling and feature selection executed successfully for the given data.
+# RESULT
+The feature scaling and feature selection executed successfully.
+
