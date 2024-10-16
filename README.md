@@ -1,7 +1,7 @@
 # EXNO:4-DS
 # DATE: 04/10/24
-# NAME: V MYTHILI (212223040123)
-# DEPT: CSE
+# NAME: ARULARASI U 212223100002
+# DEPT: CSE-CS
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
